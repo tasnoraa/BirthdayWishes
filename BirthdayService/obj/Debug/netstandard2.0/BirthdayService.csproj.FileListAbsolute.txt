@@ -1,0 +1,9 @@
+C:\Users\X461581\Documents\Assessment\BirthdayWishes\BirthdayService\bin\Debug\netstandard2.0\BirthdayService.deps.json
+C:\Users\X461581\Documents\Assessment\BirthdayWishes\BirthdayService\bin\Debug\netstandard2.0\BirthdayService.dll
+C:\Users\X461581\Documents\Assessment\BirthdayWishes\BirthdayService\bin\Debug\netstandard2.0\BirthdayService.pdb
+C:\Users\X461581\Documents\Assessment\BirthdayWishes\BirthdayService\obj\Debug\netstandard2.0\BirthdayService.csprojAssemblyReference.cache
+C:\Users\X461581\Documents\Assessment\BirthdayWishes\BirthdayService\obj\Debug\netstandard2.0\BirthdayService.csproj.CoreCompileInputs.cache
+C:\Users\X461581\Documents\Assessment\BirthdayWishes\BirthdayService\obj\Debug\netstandard2.0\BirthdayService.AssemblyInfoInputs.cache
+C:\Users\X461581\Documents\Assessment\BirthdayWishes\BirthdayService\obj\Debug\netstandard2.0\BirthdayService.AssemblyInfo.cs
+C:\Users\X461581\Documents\Assessment\BirthdayWishes\BirthdayService\obj\Debug\netstandard2.0\BirthdayService.dll
+C:\Users\X461581\Documents\Assessment\BirthdayWishes\BirthdayService\obj\Debug\netstandard2.0\BirthdayService.pdb

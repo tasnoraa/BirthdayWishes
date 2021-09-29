@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\X461581\\Documents\\Assessment\\BirthdayWishes\\RealmService\\RealmService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\X461581\\Documents\\Assessment\\BirthdayWishes\\RealmService\\RealmService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\X461581\\Documents\\Assessment\\BirthdayWishes\\RealmService\\RealmService.csproj",
+        "projectName": "RealmService",
+        "projectPath": "C:\\Users\\X461581\\Documents\\Assessment\\BirthdayWishes\\RealmService\\RealmService.csproj",
+        "packagesPath": "C:\\Users\\X461581\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\X461581\\Documents\\Assessment\\BirthdayWishes\\RealmService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\X461581\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\X461581\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
